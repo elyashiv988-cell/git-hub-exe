@@ -2,3 +2,6 @@ Name: Elyshiv
 Last name: Cohen
 adderss: JLM 
 phone number: 0554443322
+Job: solidier
+Wife: Tamar
+age: 23
