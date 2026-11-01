@@ -1,3 +1,4 @@
 name: meni
 family: Kenig
 Age: 25
+addres: hotel
